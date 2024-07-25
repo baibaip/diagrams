@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-25T13:38:50.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="8trRH9Qi_XlEdfGBA8tl" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-25T13:39:58.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="9REnKAAdFnEZhnaedeTl" version="24.6.4" type="github">
   <diagram name="第 1 页" id="UgYprfsCHXyhRw42ALS6">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
             <mxPoint x="279" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fkq1C80HDPR4oawkZcrF-3" value="&lt;h2&gt;专用零信任产品系统架构&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Fkq1C80HDPR4oawkZcrF-3" value="&lt;h2&gt;专用零信任产品系统架构&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="295" y="184" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fkq1C80HDPR4oawkZcrF-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
