@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="Sipz-_kJV49elIH6eEbf">
-    <mxGraphModel dx="880" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,10 +103,7 @@
         <mxCell id="w30AFk53KffUqU6aEnDT-30" value="2. 检验、开门" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="220" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w30AFk53KffUqU6aEnDT-31" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
-          <mxGeometry x="74" y="94" width="52" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="w30AFk53KffUqU6aEnDT-32" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+        <mxCell id="w30AFk53KffUqU6aEnDT-32" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#3399FF;shape=mxgraph.azure.laptop" vertex="1" parent="1">
           <mxGeometry x="510" y="180" width="116.67" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w30AFk53KffUqU6aEnDT-33" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#99CCFF;strokeWidth=2;" vertex="1" parent="1">
@@ -124,7 +121,7 @@
         <mxCell id="w30AFk53KffUqU6aEnDT-38" value="UDP端口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="865" y="360" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w30AFk53KffUqU6aEnDT-39" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.ad_fs" vertex="1" parent="1">
+        <mxCell id="w30AFk53KffUqU6aEnDT-39" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#3399FF;shape=mxgraph.mscae.enterprise.ad_fs" vertex="1" parent="1">
           <mxGeometry x="865" y="175" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="w30AFk53KffUqU6aEnDT-40" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-30;fillColor=#999999;strokeColor=#999999;" vertex="1" parent="1">
@@ -140,13 +137,16 @@
           <mxGeometry x="619.0799999999999" y="290" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w30AFk53KffUqU6aEnDT-45" value="2、通过SPA敲门包，验证用户身份信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="45" width="170" height="30" as="geometry" />
+          <mxGeometry x="970" y="85" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w30AFk53KffUqU6aEnDT-46" value="3、对合法用户的IP暂时放行端口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="355" width="170" height="30" as="geometry" />
+          <mxGeometry x="970" y="290" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w30AFk53KffUqU6aEnDT-47" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=32;dx2=25;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="115" width="40" height="175" as="geometry" />
+        <mxCell id="w30AFk53KffUqU6aEnDT-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
+          <mxGeometry x="56.34" y="70" width="87.33" height="87.33" as="geometry" />
+        </mxCell>
+        <mxCell id="w30AFk53KffUqU6aEnDT-52" value="" style="shape=mxgraph.arrows.u_turn_left_arrow;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=#999999;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="980" y="160" width="40" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
