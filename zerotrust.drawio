@@ -1,9 +1,78 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="jQHDzBE87T-AuKWXarQF">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="290" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
+          <mxGeometry x="567.1" y="170.4" width="55.800000000000004" height="39.6" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-3" value="NEF、NRF、UDM、SMSF、GMLC、AF、AMF、SMF、UPF等网元设备" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="220" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-4" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="109.6" width="250" height="180.4" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="110" y="179.8" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-7" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="190" y="159.8" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-8" value="运维设备" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-9" value="运维面" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-10" value="业务面" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="129.8" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-11" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/DVS_Surveillance_Monitor.svg;" vertex="1" parent="1">
+          <mxGeometry x="350" y="330" width="42" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-12" value="专用漏洞探测产品" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-15" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" target="7_sWBEAfQF-QPwH51Nvz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="360" as="sourcePoint" />
+            <mxPoint x="460" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-16" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="360" as="sourcePoint" />
+            <mxPoint x="240" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="430" as="sourcePoint" />
+            <mxPoint x="370" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-18" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Storage_Unit_Large.svg;" vertex="1" parent="1">
+          <mxGeometry x="346.76000000000005" y="480" width="48.48" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-19" value="专用日志审计产品" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="530" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-23" value="&lt;font color=&quot;#ff3333&quot;&gt;孤岛文件检测&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="268" y="280" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-24" value="&lt;font color=&quot;#ff3333&quot;&gt;系统漏洞检测&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="330" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-25" value="&lt;font color=&quot;#ff3333&quot;&gt;5G技术接口探测&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="330" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7_sWBEAfQF-QPwH51Nvz-26" value="&lt;font color=&quot;#ff3333&quot;&gt;日志上报&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="430" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
