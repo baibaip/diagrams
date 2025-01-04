@@ -42,13 +42,13 @@
         <mxCell id="j_zCi_JwCy9vCqhzKMY_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j_zCi_JwCy9vCqhzKMY_-13" target="j_zCi_JwCy9vCqhzKMY_-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j_zCi_JwCy9vCqhzKMY_-13" value="新增控制策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j_zCi_JwCy9vCqhzKMY_-13" value="新增/删除控制策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="106.88" y="350" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j_zCi_JwCy9vCqhzKMY_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j_zCi_JwCy9vCqhzKMY_-15" target="j_zCi_JwCy9vCqhzKMY_-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j_zCi_JwCy9vCqhzKMY_-15" value="新增路由配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j_zCi_JwCy9vCqhzKMY_-15" value="新增/删除路由配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="107.50999999999999" y="410" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
