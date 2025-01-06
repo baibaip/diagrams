@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="第 1 页" id="M5MeMRLtZV0gHbgQa_9G">
     <mxGraphModel dx="1034" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,17 +19,33 @@
         <mxCell id="UkNH57WdEz6cep3uEiiW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UkNH57WdEz6cep3uEiiW-4" target="UkNH57WdEz6cep3uEiiW-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UkNH57WdEz6cep3uEiiW-4" value="新增普通用户" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UkNH57WdEz6cep3uEiiW-4" value="修改用户密码" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="111.25" y="170" width="97.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A9xTmQh3BtO1kjlwcCSO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UkNH57WdEz6cep3uEiiW-6" target="A9xTmQh3BtO1kjlwcCSO-1">
+        <mxCell id="A9xTmQh3BtO1kjlwcCSO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UkNH57WdEz6cep3uEiiW-6" target="A9xTmQh3BtO1kjlwcCSO-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UkNH57WdEz6cep3uEiiW-6" value="设置系统动态授权策略" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="111.25" y="230" width="97.5" height="40" as="geometry" />
+        <mxCell id="UkNH57WdEz6cep3uEiiW-6" value="修改用户权限" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="111.25" y="230" width="97.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A9xTmQh3BtO1kjlwcCSO-1" value="查看日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="122.5" y="300" width="75" height="30" as="geometry" />
+        <mxCell id="t43eVdrzHK1g2_VZ4k4j-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="A9xTmQh3BtO1kjlwcCSO-1" target="t43eVdrzHK1g2_VZ4k4j-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9xTmQh3BtO1kjlwcCSO-1" value="设置安全策略" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="122.5" y="290" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t43eVdrzHK1g2_VZ4k4j-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t43eVdrzHK1g2_VZ4k4j-2" target="t43eVdrzHK1g2_VZ4k4j-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t43eVdrzHK1g2_VZ4k4j-2" value="设置动态授权策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="350" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t43eVdrzHK1g2_VZ4k4j-4" value="查看日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
